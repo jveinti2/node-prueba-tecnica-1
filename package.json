@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "node-fetch": "^3.3.0",
+    "underscore": "^1.13.6"
+  }
+}
